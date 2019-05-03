@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc00df93-4388-4a79-a3c6-383d22db9444" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/aquila_python3_rotated/aquila_python3_rotated.py" beforeDir="false" afterPath="$PROJECT_DIR$/aquila_python3_rotated/aquila_python3_rotated.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aquila_cpp/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/aquila_cpp/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aquila_cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aquila_cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aquila_cpp/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aquila_cpp/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +20,21 @@
         <counts>
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="4" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="3047" />
+          <entry key="py" value="3067" />
           <entry key="txt" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="141" />
-          <entry key="Python" value="3047" />
+          <entry key="Python" value="3067" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,30 +54,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/aquila_python3_rotated/aquila_python3_rotated.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="182" selection-start-line="182" selection-end-line="182" />
+            <state relative-caret-position="15">
+              <caret line="45" column="29" lean-forward="true" selection-end-line="254" selection-end-column="18" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
-                <element signature="e#116#804#0" />
-                <element signature="e#842#1014#0" />
-                <element signature="e#1051#2488#0" />
-                <element signature="e#2532#2847#0" />
-                <element signature="e#2893#3203#0" />
-                <element signature="e#3251#3628#0" />
-                <element signature="e#3668#4201#0" />
-                <element signature="e#4246#4483#0" />
-                <element signature="e#4894#5135#0" />
-                <element signature="e#5180#5237#0" />
-                <element signature="e#5272#6578#0" />
-                <element signature="e#6631#6952#0" />
-                <element signature="e#7005#7162#0" />
-                <element signature="e#7211#7366#0" />
-                <element signature="e#7405#8001#0" />
-                <element signature="e#8052#8529#0" />
-                <element signature="e#8632#10864#0" />
-                <element signature="e#10898#10951#0" />
-                <marker date="1556828891137" expanded="true" signature="83:11547" ph="..." />
-                <marker date="1556828891137" expanded="true" signature="2884:3204" ph="..." />
               </folding>
             </state>
           </provider>
@@ -116,13 +100,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="293" />
     <option name="y" value="53" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -268,13 +252,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24972677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32972974" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32972974" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,30 +292,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aquila_python3_rotated/aquila_python3_rotated.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="15">
+          <caret line="45" column="29" lean-forward="true" selection-end-line="254" selection-end-column="18" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
-            <element signature="e#116#804#0" />
-            <element signature="e#842#1014#0" />
-            <element signature="e#1051#2488#0" />
-            <element signature="e#2532#2847#0" />
-            <element signature="e#2893#3203#0" />
-            <element signature="e#3251#3628#0" />
-            <element signature="e#3668#4201#0" />
-            <element signature="e#4246#4483#0" />
-            <element signature="e#4894#5135#0" />
-            <element signature="e#5180#5237#0" />
-            <element signature="e#5272#6578#0" />
-            <element signature="e#6631#6952#0" />
-            <element signature="e#7005#7162#0" />
-            <element signature="e#7211#7366#0" />
-            <element signature="e#7405#8001#0" />
-            <element signature="e#8052#8529#0" />
-            <element signature="e#8632#10864#0" />
-            <element signature="e#10898#10951#0" />
-            <marker date="1556828891137" expanded="true" signature="83:11547" ph="..." />
-            <marker date="1556828891137" expanded="true" signature="2884:3204" ph="..." />
           </folding>
         </state>
       </provider>

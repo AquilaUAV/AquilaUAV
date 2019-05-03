@@ -108,6 +108,7 @@ class Aquila:
 
     def __log_info(self, message):
         print('[ {:.6f} ] '.format(time.time()), message, sep='')
+
     def global_do(self):
 
         while (1):
@@ -180,7 +181,6 @@ class Aquila:
                 nearest_rect = rect
         self.__drawRect(nearest_rect, (0, 0, 255))
 
-
     def find_nearest_rect(self, point):
         if (self.object_list.__len__() == 0):
             return None
@@ -230,7 +230,6 @@ class Aquila:
             rect = self.__getCorrectTupleRect(rect)
             rectList.append(rect)
         return rectList
-
 
     def __del__(self):
         self.capture.release()
